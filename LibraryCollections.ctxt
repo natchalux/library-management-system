@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=LibraryCollections
+comment0.text=\n\ a\ parent\ class\ that\ store\ general\ library\ resources\ such\ as\ electronics\ and\ physical\ books\n\n\ @author\ (Natchalux)\n\ @version\ (1.0)\n
+comment1.params=Title
+comment1.target=LibraryCollections(java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ libraryCollections\n
+comment2.params=
+comment2.target=java.lang.String\ getTitle()
+comment2.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\n
+comment3.params=
+comment3.target=int\ getAvailable()
+comment4.params=
+comment4.target=Author\ getAuthor()
+comment5.params=
+comment5.target=Librarymember\ getMember()
+comment6.params=
+comment6.target=void\ printDetail()
+numComments=7

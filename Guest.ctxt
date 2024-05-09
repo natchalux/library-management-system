@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Guest
+comment0.text=\n\ Class\ represent\ a\ special\ kind\ of\ library\ user\ which\ can\ access\ library\ for\n\ the\ maximum\ of\ 3\ days\n\n\ @author\ (Natchalux)\n\ @version\ (1.0)\n
+comment1.params=guestDurationDay
+comment1.target=Guest(int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Guest\n
+comment2.params=
+comment2.target=int\ getDuration()
+comment2.text=\n\ get\ number\ of\ duration\n
+comment3.params=newDuration
+comment3.target=void\ setDuration(int)
+comment3.text=\n\ set\ a\ new\ duration\n
+numComments=4
